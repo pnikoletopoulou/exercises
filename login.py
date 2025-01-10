@@ -1,16 +1,4 @@
-'''
-Use the users CSV data below and put them in a file users.csv.
-Then, write a program to ask user for username and pin. If the username and pin are in the file,
-respond with a welcome message, else display a user not found message.
-Example 1:
-Username: grey07
-PIN: 9012
-Sorry, user not found
-Example 2:
-Username: grey07
-PIN: 2070
-Welcome Laura
-'''
+
 def load_users():
     file = open('users.csv')
     lines = file.readlines()
