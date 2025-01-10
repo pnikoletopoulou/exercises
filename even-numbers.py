@@ -14,5 +14,3 @@ for i in numbers:
         counter += 1
 
 print(counter)
-
-# DONE
