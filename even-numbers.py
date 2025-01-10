@@ -1,6 +1,3 @@
-'''
-Create a list and fill with 20 random numbers (1 – 100). Then count how many of them are even. 
-'''
 
 import random
 
