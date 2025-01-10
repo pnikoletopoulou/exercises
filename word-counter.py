@@ -1,7 +1,3 @@
-'''
-Ask user for a word and find how many times the word exists in the story.txt
-file.
-'''
 
 file = open('story.txt', 'r')
 lines = file.readlines()
