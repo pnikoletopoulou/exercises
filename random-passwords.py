@@ -1,9 +1,4 @@
-'''
-Write a program to generate random passwords. A password must be 10
-characters long and contain upper- and lower-case letters, digits 0-9, and special characters.
-Suggestion: use four lists, lower_case_letters, upper_case_letters, digits, special_characters,
-and randomly select a list and then randomly characters from the list.
-'''
+
 import random
 
 lower_case_letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
